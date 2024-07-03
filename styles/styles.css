@@ -4,7 +4,7 @@
 	--primary: #0F3C6C
   }
 
-body { background-image: url(../images/background.jpeg); background-repeat: no-repeat; background-size: cover; background-position: bottom; background-attachment: fixed;   background-position: center center;}
+body { background-image: url(../images/background2.jpg); background-repeat: no-repeat; background-size: cover; background-position: bottom; background-attachment: fixed;   background-position: center center;}
 
 h1 { font-family: 'Quicksand', sans-serif; font-weight: bold; font-size: 47px; letter-spacing: 0.3em; color: #000; }
 
@@ -16,7 +16,7 @@ img { display: block; }
 
 li { list-style: none; }
 
-.container { max-width: 1200px; width: 80%; margin: auto; height: 100vh; display: flex; align-items: end; justify-content: center;}
+.container { max-width: 1200px; width: 80%; margin: auto; height: 100%; display: flex; align-items: end; justify-content: center;}
 
 .d-flex { display: flex; }
 
@@ -26,7 +26,7 @@ li { list-style: none; }
 
 .text-uppercase { text-transform: uppercase; }
 
-.column { padding-bottom: 30%; }
+.column { padding-bottom: 10%; }
 
 .logo { margin: auto!important; max-width: 180px; }
 
