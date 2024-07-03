@@ -4,7 +4,7 @@
 	--primary: #0F3C6C
   }
 
-body { background-image: url(../images/background2.jpg); background-repeat: no-repeat; background-size: cover; background-position: bottom; background-attachment: fixed;   background-position: center center;}
+body { background-image: url(../images/background1.jpg); background-repeat: no-repeat; background-size: cover;  background-attachment: fixed;   background-position: center center;}
 
 h1 { font-family: 'Quicksand', sans-serif; font-weight: bold; font-size: 47px; letter-spacing: 0.3em; color: #000; }
 
